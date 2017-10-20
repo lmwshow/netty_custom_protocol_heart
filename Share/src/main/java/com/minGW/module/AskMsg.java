@@ -1,7 +1,7 @@
 package com.minGW.module;
 
 /**
- * Created by yaozb on 15-4-11.
+ * Created by Gracecoder on 2017/10/20.
  * 请求类型的消息
  */
 public class AskMsg extends BaseMsg {

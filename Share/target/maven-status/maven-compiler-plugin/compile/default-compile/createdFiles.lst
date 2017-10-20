@@ -1,0 +1,11 @@
+com/minGW/module/BaseMsg.class
+com/minGW/module/MsgType.class
+com/minGW/module/ReplyBody.class
+com/minGW/module/AskMsg.class
+com/minGW/module/LoginMsg.class
+com/minGW/module/PingMsg.class
+com/minGW/module/Constants.class
+com/minGW/module/ReplyServerBody.class
+com/minGW/module/AskParams.class
+com/minGW/module/ReplyClientBody.class
+com/minGW/module/ReplyMsg.class

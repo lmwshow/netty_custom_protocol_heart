@@ -1,7 +1,7 @@
 package com.minGW.module;
 
 /**
- * Created by yaozb on 15-4-11.
+ * Created by Gracecoder on 2017/10/20.
  */
 public class ReplyServerBody extends ReplyBody {
     private String serverInfo;
